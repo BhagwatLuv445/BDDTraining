@@ -1,5 +1,5 @@
 # BDDTraining
 BDDTraining Project
 
-#How To Run
+# How To Run
 Use MVN Test
